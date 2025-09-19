@@ -1,6 +1,4 @@
 # Project-01
-
-# Project-01
 Portfolio Website – MyGruham
 
 This is a static portfolio website hosted under portfolio.mygruham.com, designed to showcase personal skills, projects, testimonials, and work terms in a professional and minimal style.
